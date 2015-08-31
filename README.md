@@ -1,4 +1,4 @@
-ContactList
+<h1>ContactList</h1>
 
 <h3>Functionality</h3>
 1. This App is to manage contact list on a web browser.
@@ -10,11 +10,10 @@ ContactList
 
 <h3>Setup</h3>
 In a shell terminal, run the following commands:
-1. $ bundle install
-2. $ rake db:setup
-3. $ bin/rails s
-Then in the browser, visit:
-localhost:3000/contacts
+
+1. `bundle install`
+2. `bin/rails s`
+3. Visit `http://localhost:3000/` in your browser
 
 <h3>To be added</h3>
 1. Some styling will be added to make the app more user-friendly.
