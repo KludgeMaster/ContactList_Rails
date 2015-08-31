@@ -13,7 +13,7 @@ In a shell terminal, run the following commands:
 
 1. `bundle install`
 2. `bin/rails s`
-3. Visit `http://localhost:3000/` in your browser
+3. Visit `http://localhost:3000/contacts` in your browser
 
 <h3>To be added</h3>
 1. Some styling will be added to make the app more user-friendly.
